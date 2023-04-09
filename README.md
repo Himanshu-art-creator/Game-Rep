@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+<img height= "55%" src="https://wallpapercave.com/wp/wp9314293.jpg">alt="image"<\img>
+### Hi there 👋
+<h1 align="center">Hlo 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right"alt="coading"width="400" src="https://images.yourstory.com/cs/1/be1a9aa0-f94e-11e8-9dfb-d73ab0a77acb/hire-full-stack-developers1546507474317.gif">
 
