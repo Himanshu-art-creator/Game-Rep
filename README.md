@@ -1,4 +1,4 @@
-<img height= "55%" src="https://wallpapercave.com/wp/wp9314293.jpg">alt="image"<\img>
+
 ### Hi there 👋
 <h1 align="center">Hlo 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
