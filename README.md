@@ -3,7 +3,7 @@
 ### Hi there 👋
 <h1 align="center">Hlo 👋, I'm Himanshu Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="center"alt="coading"width="400" src="https://images.yourstory.com/cs/1/be1a9aa0-f94e-11e8-9dfb-d73ab0a77acb/hire-full-stack-developers1546507474317.gif">
+<img align ="center"alt="coading"width="800" src="https://images.yourstory.com/cs/1/be1a9aa0-f94e-11e8-9dfb-d73ab0a77acb/hire-full-stack-developers1546507474317.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-art-creator&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-art-creator" /> </p>
 
